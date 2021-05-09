@@ -17,6 +17,7 @@ public class Screen extends Render
 		}
 	}
 	
+	
 	public void render()
 	{
 		for(int i = 0; i < width * height; i++)
